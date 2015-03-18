@@ -48,3 +48,4 @@ test/
 *.jar
 *.yml
 base.csv
+lookup.csv
